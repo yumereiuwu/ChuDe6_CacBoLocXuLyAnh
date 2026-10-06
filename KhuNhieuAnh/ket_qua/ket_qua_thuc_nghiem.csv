@@ -1,0 +1,41 @@
+﻿Ảnh,Loại nhiễu,Bộ lọc,PSNR (dB),SSIM,Thời gian (ms)
+chan_dung.jpg,Gauss,Trung bình,27.9,0.7476,11.53
+chan_dung.jpg,Gauss,Gauss,28.87,0.7224,3.41
+chan_dung.jpg,Gauss,Trung vị,27.9,0.7056,1.55
+chan_dung.jpg,Gauss,Song phương,29.07,0.7211,6.74
+chan_dung.jpg,Muối Tiêu,Trung bình,25.19,0.6054,0.49
+chan_dung.jpg,Muối Tiêu,Gauss,24.5,0.5314,0.16
+chan_dung.jpg,Muối Tiêu,Trung vị,30.44,0.8744,0.98
+chan_dung.jpg,Muối Tiêu,Song phương,15.38,0.1735,2.33
+con_cho.jpg,Gauss,Trung bình,23.82,0.5336,0.45
+con_cho.jpg,Gauss,Gauss,25.41,0.6653,0.17
+con_cho.jpg,Gauss,Trung vị,23.77,0.5174,0.83
+con_cho.jpg,Gauss,Song phương,26.81,0.7178,2.8
+con_cho.jpg,Muối Tiêu,Trung bình,22.68,0.4559,0.53
+con_cho.jpg,Muối Tiêu,Gauss,22.99,0.5256,0.16
+con_cho.jpg,Muối Tiêu,Trung vị,24.48,0.5945,0.98
+con_cho.jpg,Muối Tiêu,Song phương,15.33,0.2082,3.37
+mau.jpg,Gauss,Trung bình,27.17,0.5955,0.58
+mau.jpg,Gauss,Gauss,27.61,0.501,0.23
+mau.jpg,Gauss,Trung vị,31.65,0.6903,1.27
+mau.jpg,Gauss,Song phương,30.19,0.5836,3.62
+mau.jpg,Muối Tiêu,Trung bình,23.74,0.383,0.45
+mau.jpg,Muối Tiêu,Gauss,22.58,0.2668,0.14
+mau.jpg,Muối Tiêu,Trung vị,34.43,0.9862,0.95
+mau.jpg,Muối Tiêu,Song phương,13.91,0.1015,3.43
+phong_canh.jpg,Gauss,Trung bình,22.68,0.7091,0.76
+phong_canh.jpg,Gauss,Gauss,25.55,0.7722,0.15
+phong_canh.jpg,Gauss,Trung vị,23.99,0.7065,1.13
+phong_canh.jpg,Gauss,Song phương,27.55,0.7994,3.63
+phong_canh.jpg,Muối Tiêu,Trung bình,21.05,0.5887,0.53
+phong_canh.jpg,Muối Tiêu,Gauss,22.02,0.6006,0.15
+phong_canh.jpg,Muối Tiêu,Trung vị,25.07,0.8251,1.03
+phong_canh.jpg,Muối Tiêu,Song phương,14.57,0.3278,3.51
+vat_the.jpg,Gauss,Trung bình,28.21,0.7003,0.77
+vat_the.jpg,Gauss,Gauss,29.09,0.717,0.21
+vat_the.jpg,Gauss,Trung vị,27.86,0.6647,1.1
+vat_the.jpg,Gauss,Song phương,28.9,0.6978,3.48
+vat_the.jpg,Muối Tiêu,Trung bình,24.9,0.5441,0.59
+vat_the.jpg,Muối Tiêu,Gauss,23.96,0.4947,0.23
+vat_the.jpg,Muối Tiêu,Trung vị,29.95,0.8242,1.35
+vat_the.jpg,Muối Tiêu,Song phương,14.85,0.1348,3.66
